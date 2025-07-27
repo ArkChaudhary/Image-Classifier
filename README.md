@@ -133,7 +133,7 @@ Dense(10) → Softmax
 
 **Macro AUC**: **0.9674**
 
-[**Link to plots**](https://github.com/ArkChaudhary/Image-Classifier/plots) (learning curves, confusion matrix, per-class metrics).
+[**Link to plots**](https://github.com/ArkChaudhary/Image-Classifier/tree/main/plots) (learning curves, confusion matrix, per-class metrics).
 
 ---
 
