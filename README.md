@@ -202,8 +202,10 @@ python main.py --epochs 50 --batch-size 64  # Custom training
 cifar10-cnn-classifier/
 ├── README.md
 ├── requirements.txt
-├── main.py
-├── train.py
+├── .gitignore
+├── src/
+│   ├── train.py
+│   └── main.py
 ├── models/
 │   ├── best_model.h5
 │   └── final_model.h5
@@ -216,8 +218,4 @@ cifar10-cnn-classifier/
 │   ├── classification_report.txt
 │   ├── per_class_metrics.csv
 │   └── roc_auc_scores.csv
-├── notebooks/
-│   └── exploration.ipynb
-└── data/
-    └── cifar-10-batches-py/
 ```
