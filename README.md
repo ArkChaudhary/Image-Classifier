@@ -199,7 +199,7 @@ python main.py --epochs 50 --batch-size 64  # Custom training
 ## **9. Project Structure**
 
 ```
-cifar10-cnn-classifier/
+Image-Classifier/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
